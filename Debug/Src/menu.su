@@ -1,0 +1,9 @@
+menu.c:64:6:flash_write	24	static
+menu.c:72:10:readFromEEPROM	16	static
+menu.c:77:6:ILI_Init	8	static
+menu.c:81:6:init_display	8	static
+menu.c:124:6:data_init	16	static
+menu.c:132:6:render	88	static
+menu.c:241:6:display_menu	16	static
+menu.c:248:6:compute_rpm	16	static
+menu.c:269:6:init_stepperdrive	8	static

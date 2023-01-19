@@ -1,0 +1,14 @@
+stepperdrive.c:56:6:set_lock_nut	4	static
+stepperdrive.c:61:6:unset_lock_nut	4	static
+stepperdrive.c:65:6:set_move_left	4	static
+stepperdrive.c:69:6:set_move_right	4	static
+stepperdrive.c:73:6:set_feed_direction_right	4	static
+stepperdrive.c:78:6:set_feed_direction_left	4	static
+stepperdrive.c:83:7:get_pitch_selection	16	static
+stepperdrive.c:87:6:setFeedVal	16	static
+stepperdrive.c:92:6:setDesiredPosition	16	static
+stepperdrive.c:97:6:incrementCurrentPosition	16	static
+stepperdrive.c:102:6:setCurrentPosition	16	static
+stepperdrive.c:107:10:get_spindlePosition	4	static
+stepperdrive.c:111:9:feedRatio	16	static
+stepperdrive.c:121:6:HAL_TIM_PeriodElapsedCallback	24	static
